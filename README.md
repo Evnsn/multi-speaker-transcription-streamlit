@@ -1,1 +1,1 @@
-# multi-speaker-transcription-streamlit
+# Multi speaker transcription streamlit
